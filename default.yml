@@ -23,7 +23,7 @@ org_settings:
     ###########################################################
     org_name: DengiwebLLC
   webhook_settings:
-    activities_settings:
+    activities_webhook:
       enable_activities_webhook: true
       destination_url: https://webhook.site/6818dcf9-9fbc-400d-86fd-300781beb17d  
   
